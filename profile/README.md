@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/1XRvPfq.png" alt="Chronie Banner" width="320">
+  <img src="https://imgur.com/8gGBcYY.png" alt="Chronie Banner" width="320">
 </p>
 
 # 🚀 MU Chronicles
